@@ -1,6 +1,8 @@
 :root{--primary-color: #7306E4;
 --sacndrey-color: #f59e0b;}
 
+html, body { overflow-x: hidden; }
+
 
 
 .wala{font-size: 20px;}
@@ -247,6 +249,7 @@ font-weight: bold;}
     background-repeat: no-repeat;
 
 }
+.hero-header{padding-top:200px ;}
 
 .my-header h1{font-size: 60px;
 margin-bottom: 30px;
